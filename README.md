@@ -1,17 +1,22 @@
-muhammad bilal — ai/ml engineer  
-making models useful.
+# muhammad bilal
+
+ai/ml engineer · making models useful.
 
 ---
 
-building &nbsp;&nbsp; VAforge  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desktop video analytics — real-time gameplay  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;capture, ONNX inference, MediaPipe, FFmpeg  
+### building
 
-languages &nbsp;python · typescript  
-frameworks fastapi · tauri  
-ml/video &nbsp;&nbsp;onnx · mediapipe · ffmpeg  
-interests &nbsp;linux ricing · algorithms · systems  
+**VAforge**  
+desktop video analytics engine — real-time gameplay capture, ONNX inference, MediaPipe, FFmpeg
+
+### stack
+
+`python` `typescript` `fastapi` `tauri` `onnx` `mediapipe` `ffmpeg`
+
+### interests
+
+`linux ricing` `algorithms` `systems`
 
 ---
 
-contact &nbsp;&nbsp;&nbsp;mbilalsaleem27@gmail.com
+mbilalsaleem27@gmail.com
