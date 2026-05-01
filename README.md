@@ -6,11 +6,7 @@ AI/ML Engineer · Making models useful.
 ### Building
 
 **VAforge**  
-Desktop video analytics engine
-- real-time gameplay capture
-- ONNX inference
-- MediaPipe
-- FFmpeg
+Desktop video analytics engine — real-time gameplay capture, ONNX inference, MediaPipe, FFmpeg
 
 ### Stack
 
